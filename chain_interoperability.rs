@@ -2,3 +2,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Refactor staking logic
 // Integrate Chainlink VRF for randomness
+// Integrate flash loan functionality
