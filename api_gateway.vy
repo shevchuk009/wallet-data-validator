@@ -3,3 +3,4 @@
 // Fix issues with gas optimization in smart contracts
 // Enhance smart contract compatibility
 // Enhance contract interaction APIs
+// Refactor multi-signature wallet code
