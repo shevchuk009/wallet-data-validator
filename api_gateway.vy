@@ -4,3 +4,4 @@
 // Enhance smart contract compatibility
 // Enhance contract interaction APIs
 // Refactor multi-signature wallet code
+// Add support for NFT marketplaces
