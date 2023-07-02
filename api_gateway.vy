@@ -6,3 +6,4 @@
 // Refactor multi-signature wallet code
 // Add support for NFT marketplaces
 // Enhance contract event handling
+// Add support for zk-SNARKs in smart contracts
