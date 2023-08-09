@@ -3,3 +3,4 @@
 // Implement performance optimizations for DeFi
 // Add support for yield farming rewards
 // Refactor contract state machine design
+// Refactor validator reward system
