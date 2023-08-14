@@ -2,3 +2,4 @@
 // Implement contract function batching
 // Fix vulnerabilities in staking contracts
 // Implement time-locked contract execution
+// Improve token burning mechanism
