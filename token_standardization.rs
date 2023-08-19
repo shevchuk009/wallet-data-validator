@@ -2,3 +2,4 @@
 // Improve on-chain governance systems
 // Enhance smart contract extensibility
 // Add governance proposal expiration feature
+// Fix security vulnerability in random number generation
