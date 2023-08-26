@@ -4,3 +4,4 @@
 // Add support for yield farming rewards
 // Refactor contract state machine design
 // Refactor validator reward system
+// Improve scalability for smart contract platforms
