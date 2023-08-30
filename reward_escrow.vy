@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Improve API rate limiting
 // Improve contract interaction via APIs
+// Refactor contract state machine design
