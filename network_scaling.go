@@ -3,3 +3,4 @@
 // Add support for yield farming rewards
 // Update testing framework for Solidity
 // Refactor token economics model
+// Refactor incentive structure in DeFi protocol
