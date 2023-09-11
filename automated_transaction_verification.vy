@@ -3,3 +3,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Refactor voting mechanism
 // Refactor decentralized storage system
+// Integrate with external DeFi protocols
