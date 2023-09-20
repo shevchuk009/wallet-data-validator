@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Add support for decentralized marketplaces
 // Refactor staking logic
+// Add governance proposal expiration feature
