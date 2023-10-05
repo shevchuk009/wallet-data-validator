@@ -5,3 +5,4 @@
 // Refactor Ethereum gas price management
 // Enhance decentralized autonomous governance
 // Refactor incentive structure in DeFi protocol
+// Add support for yield farming rewards
