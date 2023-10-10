@@ -5,3 +5,4 @@
 // Add support for decentralized marketplaces
 // Refactor staking logic
 // Add governance proposal expiration feature
+// Integrate IPFS for storage
