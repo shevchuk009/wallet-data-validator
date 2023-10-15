@@ -2,3 +2,4 @@
 // Refactor wallet interaction logic
 // Add batch processing for transactions
 // Add support for multiple consensus mechanisms
+// Enhance test coverage for Rust module
