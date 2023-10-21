@@ -5,3 +5,4 @@
 // Implement automatic transaction retries
 // Refactor validator reward system
 // Enhance contract modularity
+// Add multi-sig wallet functionality
