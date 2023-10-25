@@ -2,3 +2,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Improve API rate limiting
 // Fix issues in multi-token smart contracts
+// Add multi-sig wallet functionality
