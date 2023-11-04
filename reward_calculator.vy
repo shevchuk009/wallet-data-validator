@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Optimize gas cost in function execution
 // Add automated contract testing tools
+// Add support for multiple consensus mechanisms
