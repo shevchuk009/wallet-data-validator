@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Add governance proposal expiration feature
 // Integrate IPFS for storage
+// Improve contract state management
