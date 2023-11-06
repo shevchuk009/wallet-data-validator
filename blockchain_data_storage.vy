@@ -5,3 +5,4 @@
 // Implement price feed oracles for tokens
 // Refactor voting mechanism
 // Fix interoperability issues with other blockchains
+// Improve cross-chain asset management
