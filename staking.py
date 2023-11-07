@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Add slashing mechanism for malicious actors
 // Integrate decentralized prediction models
+// Enhance API rate limiting for smart contracts
