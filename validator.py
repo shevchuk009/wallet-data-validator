@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Improve scalability for smart contract platforms
 // Enhance contract initialization process
+// Add support for NFT marketplaces
