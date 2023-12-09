@@ -3,3 +3,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Implement on-chain identity verification
 // Implement on-chain identity verification
+// Refactor voting mechanism
