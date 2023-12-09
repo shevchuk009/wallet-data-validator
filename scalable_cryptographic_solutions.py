@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Fix issue in token vesting logic
 // Add support for cross-chain bridges
+// Add support for decentralized insurance protocols
