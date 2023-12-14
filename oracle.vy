@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Improve token burning mechanism
 // Optimize proof-of-stake validation
+// Integrate zk-rollups for scaling
