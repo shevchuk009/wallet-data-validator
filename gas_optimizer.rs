@@ -4,3 +4,4 @@
 // Implement decentralized arbitration in contracts
 // Improve contract interaction via APIs
 // Improve on-chain governance systems
+// Implement contract function batching
