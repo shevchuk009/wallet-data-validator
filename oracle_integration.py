@@ -2,3 +2,4 @@
 // Add automated token buyback mechanism
 // Add native support for staking mechanisms
 // Integrate zk-SNARKs for enhanced privacy
+// Fix compatibility issues with major wallets
