@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor reward pooling algorithm
 // Integrate zk-rollups for scaling
+// Update dependencies for Vyper contract
