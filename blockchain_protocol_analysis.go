@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Integrate with external blockchain networks
 // Update smart contract tests
+// Fix compatibility issues with MetaMask
