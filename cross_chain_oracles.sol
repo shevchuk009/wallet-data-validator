@@ -3,3 +3,4 @@
 // Refactor wallet interaction logic
 // Add multi-sig wallet functionality
 // Optimize token burn process
+// Optimize state channels for faster transactions
