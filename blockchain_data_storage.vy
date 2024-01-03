@@ -8,3 +8,4 @@
 // Improve cross-chain asset management
 // Fix issues with ERC-20 token approvals
 // Add multi-sig wallet functionality
+// Fix issues with cross-chain transaction finality
