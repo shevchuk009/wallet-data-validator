@@ -4,3 +4,4 @@
 // Fix bugs in NFT metadata handling
 // Add multi-sig wallet functionality
 // Optimize cross-chain communication
+// Add support for decentralized file storage
