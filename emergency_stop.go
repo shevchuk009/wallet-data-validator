@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Fix compatibility with MetaMask
 // Fix security vulnerability in random number generation
+// Integrate decentralized anonymous identity systems
