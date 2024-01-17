@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Add support for zk-SNARKs in smart contracts
 // Implement delegation pattern
+// Optimize hashing algorithm
