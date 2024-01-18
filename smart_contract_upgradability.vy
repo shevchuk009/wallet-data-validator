@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Refactor contract to use EIP-712 signatures
 // Improve contract execution performance
+// Enhance logging for better debugging
