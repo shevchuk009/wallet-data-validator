@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Fix vulnerabilities in staking contracts
 // Fix memory leak in Rust smart contract
+// Improve API rate limiting
