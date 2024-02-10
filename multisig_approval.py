@@ -3,3 +3,4 @@
 // Fix deserialization bug in Haskell code
 // Integrate staking rewards automation
 // Implement delegation pattern
+// Fix errors in contract interaction with wallets
