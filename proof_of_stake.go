@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate with decentralized identity providers
 // Implement adaptive block size for Ethereum
+// Add support for ERC-721A tokens
