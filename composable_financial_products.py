@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Improve error handling in transaction flow
 // Add multi-chain transaction support
+// Implement a new contract event system
