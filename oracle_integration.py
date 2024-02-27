@@ -4,3 +4,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Fix compatibility issues with major wallets
 // Optimize cross-chain communication
+// Reduce gas cost in minting logic
