@@ -2,3 +2,4 @@
 // Improve staking pool reward management
 // Refactor validator reward system
 // Fix errors in NFT minting logic
+// Optimize Oracle-based data fetching
