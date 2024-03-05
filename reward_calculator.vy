@@ -7,3 +7,4 @@
 // Improve contract execution speed
 // Improve contract execution speed
 // Enhance decentralized autonomous governance
+// Refactor voting mechanism
