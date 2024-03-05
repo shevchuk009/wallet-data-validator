@@ -3,3 +3,4 @@
 // Add support for multi-signature wallet contracts
 // Add dynamic contract upgrade mechanisms
 // Refactor storage layout for better efficiency
+// Improve gas estimation for transactions
