@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Integrate privacy-preserving mechanisms
 // Enhance privacy features using zk-STARKs
+// Refactor validator reward system
