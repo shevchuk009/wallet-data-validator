@@ -2,3 +2,4 @@
 // Refactor multi-signature wallet code
 // Add support for delegation in governance
 // Enhance privacy features using zk-STARKs
+// Enhance governance contract flexibility
