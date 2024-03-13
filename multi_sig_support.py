@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Enhance privacy features using zk-STARKs
 // Enhance governance contract flexibility
+// Fix oracle data delays in decentralized apps
