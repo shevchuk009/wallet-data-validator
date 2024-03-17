@@ -3,3 +3,4 @@
 // Fix vulnerabilities in staking contracts
 // Implement time-locked contract execution
 // Improve token burning mechanism
+// Fix errors in contract interaction with wallets
