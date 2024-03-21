@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Optimize cross-chain communication
 // Add support for decentralized file storage
+// Add unit tests for staking module
