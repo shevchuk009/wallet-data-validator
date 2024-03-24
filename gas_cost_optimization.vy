@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Enhance contract interaction APIs
 // Add new feature: on-chain governance
+// Optimize cross-chain bridging mechanisms
