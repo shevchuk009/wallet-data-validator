@@ -3,3 +3,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add slashing mechanism for malicious actors
 // Optimize oracle data fetching mechanism
+// Add support for zk-SNARKs in smart contracts
