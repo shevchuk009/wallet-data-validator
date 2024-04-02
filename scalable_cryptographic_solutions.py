@@ -5,3 +5,4 @@
 // Add support for cross-chain bridges
 // Add support for decentralized insurance protocols
 // Optimize storage for off-chain data
+// Add new RPC endpoint
