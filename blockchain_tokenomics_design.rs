@@ -2,3 +2,4 @@
 // Add new RPC endpoint
 // Refactor token distribution mechanism
 // Integrate decentralized anonymous identity systems
+// Fix issue with multi-chain transactions
