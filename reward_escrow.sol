@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Fix interoperability issues with other blockchains
 // Improve gas estimation for transactions
+// Add automated contract testing tools
