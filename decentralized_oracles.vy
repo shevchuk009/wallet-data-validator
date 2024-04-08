@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance developer documentation
 // Optimize cross-chain communication
+// Refactor staking logic
