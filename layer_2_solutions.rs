@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Add support for ERC-721A tokens
 // Optimize decentralized voting mechanisms
+// Improve DApp transaction flow
