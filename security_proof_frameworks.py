@@ -2,3 +2,4 @@
 // Implement reward distribution feature
 // Optimize token withdrawal logic
 // Add support for Layer-2 solutions
+// Add support for cross-chain bridges
