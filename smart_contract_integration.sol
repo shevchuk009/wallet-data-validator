@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Fix security vulnerability in random number generation
 // Fix edge case in unstaking logic
+// Refactor contract state machine design
