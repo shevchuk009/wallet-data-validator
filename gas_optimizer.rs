@@ -6,3 +6,4 @@
 // Improve on-chain governance systems
 // Implement contract function batching
 // Optimize cross-chain bridging mechanisms
+// Fix overflow bug in token calculation
