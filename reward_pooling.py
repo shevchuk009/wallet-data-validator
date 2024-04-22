@@ -2,3 +2,4 @@
 // Update smart contract tests
 // Refactor staking logic
 // Enhance privacy features using zk-STARKs
+// Improve decentralized oracle protocols
