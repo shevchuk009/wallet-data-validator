@@ -4,3 +4,4 @@
 // Integrate decentralized oracles for data feeds
 // Implement on-chain fee adjustment mechanisms
 // Improve error handling in transaction flow
+// Integrate zk-rollups for scaling
