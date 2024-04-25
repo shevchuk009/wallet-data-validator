@@ -8,3 +8,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor governance proposal logic
 // Add automated contract testing tools
+// Refactor voting mechanism
