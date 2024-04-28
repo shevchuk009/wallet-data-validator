@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Fix contract reentrancy issues
 // Refactor governance token logic
+// Enhance smart contract upgradeability
