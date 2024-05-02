@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Add multi-chain transaction support
 // Implement a new contract event system
+// Add native support for staking rewards
