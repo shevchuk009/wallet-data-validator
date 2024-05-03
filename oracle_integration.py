@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Optimize cross-chain communication
 // Reduce gas cost in minting logic
+// Add governance proposal expiration feature
