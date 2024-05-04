@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Implement automated governance voting
 // Fix issues in multi-token smart contracts
+// Enhance privacy features using zk-STARKs
