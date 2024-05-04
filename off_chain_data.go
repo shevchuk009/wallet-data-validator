@@ -7,3 +7,4 @@
 // Add governance proposal expiration feature
 // Integrate IPFS for storage
 // Improve contract state management
+// Add support for Layer-2 solutions
