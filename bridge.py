@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Implement liquidity pool staking mechanism
 // Update smart contract tests
+// Optimize gas usage in contract execution
