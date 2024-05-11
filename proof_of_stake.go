@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Add support for ERC-721A tokens
 // Add support for multi-signature wallet contracts
+// Fix scalability issues with smart contracts
