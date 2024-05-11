@@ -9,3 +9,4 @@
 // Fix oracle data delays in decentralized apps
 // Enhance contract upgrade process
 // Fix issue in ERC-20 token transfers
+// Integrate zk-rollups for scaling
