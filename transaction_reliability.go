@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Fix compatibility issues with MetaMask
 // Integrate Chainlink VRF for randomness
+// Add security checks for contract deployment
