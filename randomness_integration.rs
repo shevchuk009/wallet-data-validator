@@ -2,3 +2,4 @@
 // Improve security in decentralized applications
 // Add support for multiple consensus mechanisms
 // Implement emergency stop mechanism
+// Enhance privacy features using zk-STARKs
