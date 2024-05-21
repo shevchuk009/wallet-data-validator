@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Improve error handling in transaction flow
 // Optimize oracle data fetching mechanism
+// Improve smart contract logging
