@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Add support for fractional token ownership
 // Improve decentralized oracle protocols
+// Add support for decentralized file storage
