@@ -2,3 +2,4 @@
 // Enhance contract upgrade process
 // Refactor decentralized exchange (DEX) code
 // Enhance transaction monitoring
+// Enhance smart contract state changes monitoring
