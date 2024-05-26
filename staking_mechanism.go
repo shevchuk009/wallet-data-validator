@@ -3,3 +3,4 @@
 // Add batch transaction capabilities
 // Integrate Chainlink VRF for randomness
 // Optimize token minting flow
+// Add support for DeFi lending protocols
