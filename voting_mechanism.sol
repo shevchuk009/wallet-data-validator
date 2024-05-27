@@ -4,3 +4,4 @@
 // Integrate privacy-preserving mechanisms
 // Enhance privacy features using zk-STARKs
 // Refactor validator reward system
+// Optimize storage for off-chain data
