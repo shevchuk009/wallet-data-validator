@@ -4,3 +4,4 @@
 // Implement emergency stop mechanism
 // Enhance privacy features using zk-STARKs
 // Improve contract auditing tools
+// Integrate Chainlink VRF for randomness
