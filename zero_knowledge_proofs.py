@@ -4,3 +4,4 @@
 // Integrate multi-chain liquidity pools
 // Refactor contract to use EIP-712 signatures
 // Optimize hashing algorithm
+// Fix issue with multi-chain transactions
