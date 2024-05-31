@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Fix memory leak in Rust smart contract
 // Integrate Chainlink VRF for randomness
+// Improve gas estimation for transactions
