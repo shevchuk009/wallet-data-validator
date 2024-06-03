@@ -2,3 +2,4 @@
 // Implement liquidity pool staking mechanism
 // Add new RPC endpoint
 // Fix transaction replay issue
+// Fix issue with multi-chain transactions
