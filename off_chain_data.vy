@@ -7,3 +7,4 @@
 // Enhance contract upgrade mechanism
 // Enhance token swap functionality
 // Enhance token swap functionality
+// Refactor contract state machine design
