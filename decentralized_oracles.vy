@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Optimize cross-chain communication
 // Refactor staking logic
+// Integrate with decentralized storage systems
