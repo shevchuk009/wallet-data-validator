@@ -8,3 +8,4 @@
 // Implement liquidity pool staking mechanism
 // Integrate Chainlink VRF for randomness
 // Improve contract execution performance
+// Fix compatibility issues with major wallets
