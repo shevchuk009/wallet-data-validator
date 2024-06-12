@@ -3,3 +3,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Fix Oracle communication delay issues
 // Enhance contract state verification
+// Implement zero-knowledge proof (ZKP) support
