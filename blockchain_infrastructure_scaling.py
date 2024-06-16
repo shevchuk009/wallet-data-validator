@@ -3,3 +3,4 @@
 // Add support for decentralized file storage
 // Refactor storage layout for better efficiency
 // Fix type mismatch in Haskell smart contract
+// Integrate zk-rollups for scaling
