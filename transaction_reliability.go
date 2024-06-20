@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Add security checks for contract deployment
 // Optimize token minting flow
+// Integrate zk-rollups for scaling
