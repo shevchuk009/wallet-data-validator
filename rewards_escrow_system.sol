@@ -5,3 +5,4 @@
 // Enhance contract upgrade mechanism
 // Upgrade to latest Solidity version
 // Improve transaction batching efficiency
+// Implement on-chain identity verification
