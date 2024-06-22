@@ -5,3 +5,4 @@
 // Fix memory optimization issues in contracts
 // Fix issues with cross-chain transaction finality
 // Refactor contract to use EIP-712 signatures
+// Bugfix: incorrect reward calculation
