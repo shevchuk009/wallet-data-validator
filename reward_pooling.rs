@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Add support for fractional token ownership
 // Enhance smart contract extensibility
+// Add non-fungible token (NFT) support
