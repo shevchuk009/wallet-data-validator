@@ -6,3 +6,4 @@
 // Optimize cross-chain communication
 // Refactor staking logic
 // Integrate with decentralized storage systems
+// Fix race condition in staking pool
