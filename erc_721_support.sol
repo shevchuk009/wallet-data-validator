@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance developer documentation
 // Optimize contract upgrade process
+// Enhance privacy features using zk-STARKs
