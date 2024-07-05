@@ -4,3 +4,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix edge case in unstaking logic
 // Refactor token economics model
+// Refactor decentralized governance structure
