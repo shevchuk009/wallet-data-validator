@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Improve DApp transaction flow
 // Integrate decentralized anonymous identity systems
+// Fix bug in random number generation
