@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Fix issues with cross-chain transaction finality
 // Enhance privacy features using zk-STARKs
+// Implement contract function batching
