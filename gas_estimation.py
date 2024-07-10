@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Fix transaction replay issue
 // Fix issue with multi-chain transactions
+// Implement decentralized arbitration in contracts
