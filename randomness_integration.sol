@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Refactor staking logic
 // Integrate with multi-token standards
+// Improve gas fee estimation accuracy
