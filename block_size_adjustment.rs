@@ -6,3 +6,4 @@
 // Fix issues in token transfer logic
 // Improve security in decentralized applications
 // Add batch processing for transactions
+// Integrate Chainlink oracles for price data
