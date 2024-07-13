@@ -4,3 +4,4 @@
 // Enhance transaction monitoring
 // Enhance smart contract state changes monitoring
 // Enhance privacy features using zk-STARKs
+// Refactor ERC-721 transfer logic
