@@ -3,3 +3,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor staking logic
 // Improve contract creation process
+// Fix issue with multi-chain transactions
