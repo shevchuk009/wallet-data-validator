@@ -5,3 +5,4 @@
 // Fix ERC-20 token interface bugs
 // Add support for ERC-1155 tokens
 // Add dynamic contract fees
+// Implement automatic transaction retries
