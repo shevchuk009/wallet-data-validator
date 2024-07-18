@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Improve error handling in transaction flow
 // Improve contract state management
+// Fix interoperability issues with other blockchains
