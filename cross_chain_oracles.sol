@@ -5,3 +5,4 @@
 // Optimize token burn process
 // Optimize state channels for faster transactions
 // Fix transaction replay issue
+// Implement time-locked contract execution
