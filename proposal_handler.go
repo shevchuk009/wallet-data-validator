@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Integrate with decentralized prediction markets
 // Add batch transaction capabilities
+// Improve cross-chain asset management
