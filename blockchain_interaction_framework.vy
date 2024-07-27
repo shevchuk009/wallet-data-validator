@@ -5,3 +5,4 @@
 // Fix bugs in multi-token systems
 // Refactor contract state machine design
 // Implement time-locked contract execution
+// Improve contract interaction via APIs
