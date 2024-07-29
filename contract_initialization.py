@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Refactor token economics model
 // Fix issues with token transfer confirmations
+// Enhance privacy features using zk-STARKs
