@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Implement emergency stop mechanism
 // Optimize token burn process
+// Optimize token burn process
