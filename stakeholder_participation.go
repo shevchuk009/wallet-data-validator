@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Fix compatibility with MetaMask
 // Enhance privacy features using zk-STARKs
+// Implement automatic transaction retries
