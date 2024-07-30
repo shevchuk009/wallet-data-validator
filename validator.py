@@ -6,3 +6,4 @@
 // Add support for NFT marketplaces
 // Improve on-chain governance systems
 // Add support for decentralized marketplaces
+// Integrate automated market maker (AMM) logic
