@@ -6,3 +6,4 @@
 // Optimize storage for off-chain data
 // Update dependencies for Vyper contract
 // Integrate decentralized oracles for data feeds
+// Add support for ERC-721A tokens
