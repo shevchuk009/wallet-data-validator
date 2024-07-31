@@ -2,3 +2,4 @@
 // Fix contract reentrancy issues
 // Optimize decentralized application performance
 // Add native support for staking mechanisms
+// Integrate Chainlink VRF for randomness
