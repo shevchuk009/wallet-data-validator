@@ -10,3 +10,4 @@
 // Improve contract auditing tools
 // Add support for decentralized file storage
 // Optimize hashing algorithm
+// Improve API rate limiting
