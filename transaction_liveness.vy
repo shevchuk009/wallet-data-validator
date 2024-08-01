@@ -3,3 +3,4 @@
 // Optimize proof-of-stake validation
 // Fix token transfer approval issues
 // Implement cross-platform contract compatibility
+// Add unit tests for staking module
