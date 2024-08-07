@@ -13,3 +13,4 @@
 // Enhance cryptographic primitives in contracts
 // Implement automated governance voting
 // Optimize oracle data fetching mechanism
+// Improve staking logic for better rewards
