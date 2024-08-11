@@ -7,3 +7,4 @@
 // Enhance decentralized autonomous organizations
 // Fix compatibility issues with major wallets
 // Add governance proposal expiration feature
+// Integrate zk-SNARKs for enhanced privacy
