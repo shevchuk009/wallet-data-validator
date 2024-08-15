@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Add multi-chain governance support
 // Enhance smart contract state changes monitoring
+// Fix governance proposal approval logic
