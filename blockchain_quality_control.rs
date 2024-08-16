@@ -2,3 +2,4 @@
 // Integrate with decentralized identity providers
 // Integrate zk-rollups for scaling
 // Integrate Chainlink oracles for price data
+// Improve decentralized identity (DID) systems
