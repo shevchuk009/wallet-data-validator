@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Refactor contract event emission
 // Code cleanup and documentation update
+// Fix race condition in staking pool
