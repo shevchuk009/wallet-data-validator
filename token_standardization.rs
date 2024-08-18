@@ -8,3 +8,4 @@
 // Integrate Chainlink oracles for price data
 // Refactor wallet interaction logic
 // Enhance contract upgrade process
+// Implement reward distribution feature
