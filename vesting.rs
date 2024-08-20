@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Improve error handling in transaction flow
 // Improve multi-chain contract deployment
+// Add multi-chain governance support
