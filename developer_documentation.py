@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Enhance contract modularity for future upgrades
 // Integrate privacy-preserving mechanisms
+// Add support for cross-chain bridges
