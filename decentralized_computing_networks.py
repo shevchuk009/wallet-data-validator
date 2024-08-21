@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Add fallback mechanism in Solidity contract
 // Implement dynamic fee adjustment
+// Integrate zk-rollups for scaling
