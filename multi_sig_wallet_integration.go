@@ -2,3 +2,4 @@
 // Optimize gas usage in contract execution
 // Improve error handling in transaction flow
 // Refactor contract event emission
+// Optimize storage for off-chain data
