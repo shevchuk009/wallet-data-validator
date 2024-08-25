@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance smart contract upgradeability
 // Update testing framework for Solidity
+// Improve contract interaction via APIs
