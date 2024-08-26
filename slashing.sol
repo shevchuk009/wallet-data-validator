@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Enhance decentralized finance (DeFi) ecosystem
 // Improve gas estimation for transactions
+// Add multi-chain governance support
