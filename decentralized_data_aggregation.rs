@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Fix issues with token vesting contracts
 // Fix issues with contract finalization
+// Optimize proof-of-stake validation
