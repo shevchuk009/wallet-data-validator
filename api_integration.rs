@@ -4,3 +4,4 @@
 // Improve contract state management
 // Refactor reward pooling algorithm
 // Optimize proof-of-stake validation
+// Improve error handling in transaction flow
