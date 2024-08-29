@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Improve smart contract code modularity
 // Improve smart contract code modularity
+// Fix interoperability issues with other blockchains
