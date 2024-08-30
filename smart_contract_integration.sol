@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Refactor contract state machine design
 // Fix errors in NFT minting logic
+// Fix issue with multi-chain transactions
