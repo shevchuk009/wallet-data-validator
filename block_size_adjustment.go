@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement contract function batching
 // Optimize token withdrawal logic
+// Fix compatibility issues with MetaMask
