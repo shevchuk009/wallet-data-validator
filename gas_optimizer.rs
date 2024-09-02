@@ -7,3 +7,4 @@
 // Implement contract function batching
 // Optimize cross-chain bridging mechanisms
 // Fix overflow bug in token calculation
+// Implement a new contract event system
