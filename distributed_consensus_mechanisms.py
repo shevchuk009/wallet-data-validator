@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Add support for Layer-2 solutions
 // Optimize gas usage in smart contracts
+// Code cleanup and documentation update
