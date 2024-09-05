@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Refactor contract to use EIP-712 signatures
 // Refactor incentive structure in DeFi protocol
+// Add support for zk-SNARKs in smart contracts
