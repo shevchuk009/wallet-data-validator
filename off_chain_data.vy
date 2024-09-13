@@ -9,3 +9,4 @@
 // Enhance token swap functionality
 // Refactor contract state machine design
 // Add governance proposal expiration feature
+// Enhance contract initialization process
