@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Improve contract creation process
 // Fix issue with multi-chain transactions
+// Integrate with decentralized identity providers
