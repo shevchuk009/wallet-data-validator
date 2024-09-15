@@ -2,3 +2,4 @@
 // Fix bugs in multi-token systems
 // Enhance privacy features using zk-STARKs
 // Improve contract modularity
+// Enhance contract modularity for future upgrades
