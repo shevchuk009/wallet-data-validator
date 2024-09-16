@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Fix governance proposal approval logic
 // Implement on-chain fee adjustment mechanisms
+// Enhance security checks
