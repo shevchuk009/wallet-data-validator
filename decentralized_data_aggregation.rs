@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Fix issues with contract finalization
 // Optimize proof-of-stake validation
+// Add new RPC endpoint
