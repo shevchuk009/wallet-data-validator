@@ -2,3 +2,4 @@
 // Add support for fractional token ownership
 // Enhance contract modularity
 // Improve contract modularity
+// Integrate zk-rollups for scaling
