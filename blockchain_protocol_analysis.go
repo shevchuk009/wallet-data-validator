@@ -4,3 +4,4 @@
 // Integrate with external blockchain networks
 // Update smart contract tests
 // Fix compatibility issues with MetaMask
+// Refactor token distribution mechanism
