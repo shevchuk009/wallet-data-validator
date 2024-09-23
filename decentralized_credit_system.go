@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Improve DApp transaction flow
 // Enhance decentralized finance (DeFi) ecosystem
+// Integrate with decentralized storage systems
