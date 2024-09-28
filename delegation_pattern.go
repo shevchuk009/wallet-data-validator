@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance contract initialization process
 // Implement liquidity pool staking mechanism
+// Fix compatibility with MetaMask
