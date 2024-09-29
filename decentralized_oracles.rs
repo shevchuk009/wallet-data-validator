@@ -6,3 +6,4 @@
 // Fix governance proposal approval logic
 // Improve error handling in transaction flow
 // Enhance API rate limiting for smart contracts
+// Add support for zk-SNARKs in smart contracts
