@@ -6,3 +6,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Improve smart contract code modularity
 // Enhance off-chain data processing
+// Improve DApp transaction flow
