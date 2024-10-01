@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Fix issues with token vesting contracts
 // Add batch processing for transactions
+// Refactor staking logic
