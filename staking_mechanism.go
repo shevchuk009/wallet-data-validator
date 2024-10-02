@@ -5,3 +5,4 @@
 // Optimize token minting flow
 // Add support for DeFi lending protocols
 // Update README with Go module examples
+// Integrate zk-SNARKs for enhanced privacy
