@@ -5,3 +5,4 @@
 // Improve DApp transaction flow
 // Integrate decentralized anonymous identity systems
 // Fix bug in random number generation
+// Fix compatibility with MetaMask
