@@ -5,3 +5,4 @@
 // Fix issues with contract finalization
 // Optimize proof-of-stake validation
 // Add new RPC endpoint
+// Optimize contract upgrade process
