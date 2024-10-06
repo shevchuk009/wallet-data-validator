@@ -8,3 +8,4 @@
 // Enhance decentralized autonomous governance
 // Fix issues in token transfer logic
 // Enhance smart contract upgradeability
+// Integrate with Ethereum Layer-2 solutions
