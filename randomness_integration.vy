@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix security vulnerability in random number generation
 // Refactor validator reward system
+// Add slashing mechanism for malicious actors
