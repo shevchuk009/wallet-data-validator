@@ -7,3 +7,4 @@
 // Improve smart contract code modularity
 // Enhance off-chain data processing
 // Improve DApp transaction flow
+// Add support for decentralized insurance protocols
