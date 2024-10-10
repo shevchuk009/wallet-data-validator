@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Refactor validator reward system
 // Add slashing mechanism for malicious actors
+// Bugfix: incorrect reward calculation
