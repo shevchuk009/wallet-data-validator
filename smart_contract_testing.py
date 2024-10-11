@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Add automated contract testing tools
 // Improve smart contract logging
+// Fix governance proposal approval logic
