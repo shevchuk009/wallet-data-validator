@@ -3,3 +3,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Enhance security checks
 // Implement delegation pattern
+// Add support for multiple consensus mechanisms
