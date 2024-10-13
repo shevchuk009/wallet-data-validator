@@ -5,3 +5,4 @@
 // Enhance security checks
 // Improve scalability for smart contract platforms
 // Add support for ERC-1155 tokens
+// Add batch transaction capabilities
