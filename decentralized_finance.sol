@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Implement adaptive block size for Ethereum
 // Add decentralized contract upgradeability
+// Refactor staking logic
