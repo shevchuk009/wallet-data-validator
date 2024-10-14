@@ -4,3 +4,4 @@
 // Fix memory optimization issues in contracts
 // Fix race condition in staking pool
 // Implement dynamic fee adjustment
+// Integrate Chainlink VRF for randomness
