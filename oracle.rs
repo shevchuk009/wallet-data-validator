@@ -2,3 +2,4 @@
 // Refactor storage layout for better efficiency
 // Integrate IPFS for storage
 // Integrate chain-agnostic oracles
+// Integrate with external blockchain networks
