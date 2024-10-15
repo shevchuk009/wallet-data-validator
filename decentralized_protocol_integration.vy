@@ -3,3 +3,4 @@
 // Add support for yield farming rewards
 // Refactor oracle interaction logic
 // Add support for decentralized file storage
+// Fix issues with ERC-20 token approvals
