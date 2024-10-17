@@ -7,3 +7,4 @@
 // Improve smart contract logging
 // Optimize gas usage in smart contracts
 // Integrate Chainlink VRF for randomness
+// Implement delegation pattern
