@@ -5,3 +5,4 @@
 // Enhance contract initialization process
 // Implement liquidity pool staking mechanism
 // Fix compatibility with MetaMask
+// Add automated smart contract testing
