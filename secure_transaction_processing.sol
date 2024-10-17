@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Integrate with external DeFi protocols
 // Improve smart contract code modularity
+// Refactor storage layout for better efficiency
