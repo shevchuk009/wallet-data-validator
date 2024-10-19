@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Integrate Chainlink oracles for price data
 // Integrate with decentralized storage systems
+// Add multi-chain transaction support
