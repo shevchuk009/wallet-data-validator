@@ -3,3 +3,4 @@
 // Improve DApp transaction flow
 // Fix issues with contract state management
 // Implement automatic transaction retries
+// Improve staking logic for better rewards
