@@ -8,3 +8,4 @@
 // Fix issues with token transfer confirmations
 // Enhance privacy features using zk-STARKs
 // Integrate Chainlink VRF for randomness
+// Fix ERC-721 contract issues with transfers
