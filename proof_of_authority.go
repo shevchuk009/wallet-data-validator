@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Refactor multi-signature wallet code
 // Integrate decentralized prediction models
+// Improve staking logic for better rewards
