@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Fix governance proposal approval logic
 // Add governance proposal expiration feature
+// Improve contract execution performance
