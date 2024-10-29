@@ -8,3 +8,4 @@
 // Fix scalability issues with smart contracts
 // Improve security in decentralized applications
 // Fix bugs in decentralized exchange routing
+// Enhance privacy features using zk-STARKs
