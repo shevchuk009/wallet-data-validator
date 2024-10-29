@@ -3,3 +3,4 @@
 // Integrate staking rewards automation
 // Add unit tests for staking module
 // Enhance contract upgrade process
+// Fix issue in token vesting logic
