@@ -9,3 +9,4 @@
 // Optimize WASM compilation for Go contracts
 // Refactor validator reward system
 // Implement rewards escrow system
+// Integrate Chainlink VRF for randomness
