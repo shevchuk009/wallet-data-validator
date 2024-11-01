@@ -10,3 +10,4 @@
 // Add support for Layer-2 solutions
 // Implement contract function batching
 // Add support for delegation in governance
+// Update testing framework for Solidity
