@@ -3,3 +3,4 @@
 // Optimize cross-chain bridging mechanisms
 // Enhance smart contract state changes monitoring
 // Enhance developer documentation
+// Add multi-chain transaction support
