@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Implement on-chain identity verification
 // Implement dynamic fee adjustment
+// Improve contract interaction via APIs
