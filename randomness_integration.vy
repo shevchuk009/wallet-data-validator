@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Add slashing mechanism for malicious actors
 // Bugfix: incorrect reward calculation
+// Optimize proof-of-stake validation
