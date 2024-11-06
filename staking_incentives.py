@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Implement on-chain fee adjustment mechanisms
 // Enhance security checks
+// Fix issue with multi-chain transactions
