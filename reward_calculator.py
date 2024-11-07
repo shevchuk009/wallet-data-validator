@@ -6,3 +6,4 @@
 // Enhance contract initialization process
 // Enhance gas fee management
 // Add batch processing for transactions
+// Enhance logging for better debugging
