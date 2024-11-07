@@ -9,3 +9,4 @@
 // Implement contract function batching
 // Enhance smart contract upgradeability
 // Enhance privacy features using zk-STARKs
+// Enhance governance contract flexibility
