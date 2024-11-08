@@ -5,3 +5,4 @@
 // Integrate multi-chain liquidity pools
 // Refactor storage layout for better efficiency
 // Fix type mismatch in Haskell smart contract
+// Refactor voting mechanism
