@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Fix contract reentrancy issues
 // Implement price feed oracles for tokens
+// Fix issues with contract state management
