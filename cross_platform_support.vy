@@ -4,3 +4,4 @@
 // Optimize contract storage for gas reduction
 // Improve security for token minting contracts
 // Add new feature: on-chain governance
+// Implement on-chain identity verification
