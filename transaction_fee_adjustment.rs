@@ -5,3 +5,4 @@
 // Add dynamic contract upgrade mechanisms
 // Refactor oracle interaction logic
 // Improve contract verification speed
+// Fix issue in token vesting logic
