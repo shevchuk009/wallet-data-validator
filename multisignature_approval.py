@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Integrate decentralized oracles for data feeds
 // Improve DApp transaction flow
+// Add support for multiple consensus mechanisms
