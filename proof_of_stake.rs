@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Add new feature: on-chain governance
 // Enhance token swap functionality
+// Fix deserialization bug in Haskell code
