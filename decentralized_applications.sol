@@ -5,3 +5,4 @@
 // Refactor contract event emission
 // Code cleanup and documentation update
 // Fix race condition in staking pool
+// Fix compatibility with MetaMask
