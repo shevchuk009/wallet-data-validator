@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Implement delegation pattern
 // Enhance contract interaction APIs
+// Fix bug in random number generation
