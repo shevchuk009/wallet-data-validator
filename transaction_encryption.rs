@@ -2,3 +2,4 @@
 // Add multi-chain transaction support
 // Integrate with external blockchain networks
 // Enhance contract modularity
+// Integrate Chainlink VRF for randomness
