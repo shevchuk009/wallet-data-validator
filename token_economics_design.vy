@@ -2,3 +2,4 @@
 // Implement price feed oracles for tokens
 // Fix transaction replay issue
 // Integrate with decentralized prediction markets
+// Improve decentralized identity (DID) systems
