@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Refactor voting mechanism
 // Optimize proof-of-stake validation
+// Fix ERC-721 contract issues with transfers
