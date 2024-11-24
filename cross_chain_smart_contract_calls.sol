@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Enhance governance contract flexibility
 // Improve staking and yield farming logic
+// Add governance proposal expiration feature
