@@ -9,3 +9,4 @@
 // Integrate zk-rollups for scaling
 // Add support for zk-SNARKs in smart contracts
 // Enhance smart contract upgradeability
+// Refactor reward pooling algorithm
