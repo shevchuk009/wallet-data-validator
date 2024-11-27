@@ -5,3 +5,4 @@
 // Improve API rate limiting
 // Add fallback mechanism in Solidity contract
 // Refactor multi-asset token management
+// Add governance proposal expiration feature
