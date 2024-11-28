@@ -7,3 +7,4 @@
 // Refactor decentralized storage system
 // Enhance gas fee management
 // Enhance contract modularity
+// Optimize gas cost in function execution
