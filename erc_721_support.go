@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Enhance contract interaction APIs
 // Fix bug in random number generation
+// Add multi-sig wallet functionality
