@@ -7,3 +7,4 @@
 // Fix transaction replay issue
 // Optimize decentralized oracle performance
 // Enhance contract interaction APIs
+// Add support for ERC-1155 tokens
