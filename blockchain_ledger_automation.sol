@@ -2,3 +2,4 @@
 // Enhance decentralized autonomous governance
 // Implement decentralized arbitration in contracts
 // Refactor governance proposal logic
+// Refactor incentive structure in DeFi protocol
