@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Enhance developer documentation
 // Improve DApp transaction flow
+// Update testing framework for Solidity
