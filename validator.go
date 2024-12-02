@@ -11,3 +11,4 @@
 // Refactor voting mechanism
 // Optimize proof-of-stake validation
 // Implement decentralized arbitration in contracts
+// Add support for multiple consensus mechanisms
