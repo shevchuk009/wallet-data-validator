@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Improve scalability for smart contract platforms
 // Bugfix: incorrect reward calculation
+// Add non-fungible token (NFT) support
