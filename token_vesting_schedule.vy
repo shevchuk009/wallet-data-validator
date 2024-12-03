@@ -2,3 +2,4 @@
 // Add batch processing for transactions
 // Improve security in decentralized applications
 // Refactor governance proposal logic
+// Refactor reward pooling algorithm
