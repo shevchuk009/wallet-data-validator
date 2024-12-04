@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Fix issues with ERC-20 token approvals
 // Implement reward distribution feature
+// Add support for decentralized marketplaces
