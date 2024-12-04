@@ -8,3 +8,4 @@
 // Enhance off-chain data processing
 // Add support for multiple consensus mechanisms
 // Optimize token burn process
+// Optimize gas cost in function execution
