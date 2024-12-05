@@ -2,3 +2,4 @@
 // Add support for delegation in governance
 // Improve DApp transaction flow
 // Add support for ERC-1155 tokens
+// Optimize token minting flow
