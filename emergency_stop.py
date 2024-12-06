@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance API rate limiting for smart contracts
 // Improve on-chain governance systems
+// Fix compatibility with MetaMask
