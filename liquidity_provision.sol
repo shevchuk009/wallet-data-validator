@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Fix wallet interaction issues in DeFi protocols
 // Add fallback mechanism in Solidity contract
+// Add support for ERC-721A tokens
