@@ -6,3 +6,4 @@
 // Add support for decentralized insurance protocols
 // Improve smart contract code modularity
 // Refactor staking logic
+// Enhance smart contract upgradeability
