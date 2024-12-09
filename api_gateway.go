@@ -8,3 +8,4 @@
 // Integrate privacy-enhancing smart contracts
 // Add support for delegation in governance
 // Update README with Go module examples
+// Implement decentralized arbitration in contracts
