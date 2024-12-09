@@ -6,3 +6,4 @@
 // Add new feature: on-chain governance
 // Enhance token swap functionality
 // Fix deserialization bug in Haskell code
+// Refactor smart contract testing framework
