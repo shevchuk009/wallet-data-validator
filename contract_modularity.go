@@ -2,3 +2,4 @@
 // Fix compatibility issues with MetaMask
 // Enhance governance contract flexibility
 // Add support for ERC-721A tokens
+// Improve gas estimation for transactions
