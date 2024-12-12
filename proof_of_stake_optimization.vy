@@ -2,3 +2,4 @@
 // Improve token burning mechanism
 // Improve contract verification speed
 // Add support for ERC-721A tokens
+// Refactor cross-chain communication layer
