@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Enhance decentralized autonomous organizations
 // Fix bugs in decentralized exchange routing
+// Add batch processing for transactions
