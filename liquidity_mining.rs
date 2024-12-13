@@ -6,3 +6,4 @@
 // Enhance smart contract upgradeability
 // Refactor contract to use EIP-712 signatures
 // Fix issues in token transfer logic
+// Add unit tests for staking module
