@@ -2,3 +2,4 @@
 // Refactor governance token logic
 // Refactor decentralized exchange (DEX) code
 // Add new feature: on-chain governance
+// Implement automatic transaction retries
