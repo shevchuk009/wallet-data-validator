@@ -4,3 +4,4 @@
 // Update dependencies for Vyper contract
 // Add support for ERC-1155 tokens
 // Improve gas estimation for transactions
+// Improve decentralized identity (DID) systems
