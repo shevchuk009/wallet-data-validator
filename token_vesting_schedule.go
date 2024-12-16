@@ -5,3 +5,4 @@
 // Improve token minting flow efficiency
 // Fix issues with ERC-20 token approvals
 // Add dynamic contract fees
+// Refactor storage layout for better efficiency
