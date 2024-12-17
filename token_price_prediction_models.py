@@ -6,3 +6,4 @@
 // Add automated token buyback mechanism
 // Refactor wallet interaction logic
 // Optimize hashing algorithm
+// Add support for ERC-721A tokens
