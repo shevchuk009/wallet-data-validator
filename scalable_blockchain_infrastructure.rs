@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Improve DApp transaction flow
 // Update testing framework for Solidity
+// Implement on-chain identity verification
