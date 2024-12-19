@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Integrate Chainlink VRF for randomness
 // Add support for cross-chain bridges
+// Optimize token minting flow
