@@ -5,3 +5,4 @@
 // Integrate decentralized prediction models
 // Improve contract creation process
 // Enhance off-chain data processing
+// Fix race condition in staking pool
