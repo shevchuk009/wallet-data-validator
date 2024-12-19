@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Improve contract modularity
 // Update smart contract tests
+// Fix errors in NFT minting logic
