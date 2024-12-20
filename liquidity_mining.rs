@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix issues in token transfer logic
 // Add unit tests for staking module
+// Implement a new contract event system
