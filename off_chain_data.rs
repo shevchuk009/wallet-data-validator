@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Optimize storage for off-chain data
 // Optimize contract upgrade process
+// Add automated contract testing tools
