@@ -6,3 +6,4 @@
 // Enhance contract initialization process
 // Implement zero-knowledge proof (ZKP) support
 // Add support for NFT marketplaces
+// Add governance proposal expiration feature
