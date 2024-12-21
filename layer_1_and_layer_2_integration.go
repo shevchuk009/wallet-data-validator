@@ -2,3 +2,4 @@
 // Fix issues with contract finalization
 // Fix vulnerabilities in staking contracts
 // Enhance governance contract flexibility
+// Improve contract interaction via APIs
