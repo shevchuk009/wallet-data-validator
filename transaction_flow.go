@@ -6,3 +6,4 @@
 // Add support for yield farming rewards
 // Refactor wallet interaction logic
 // Fix interoperability issues with other blockchains
+// Enhance test coverage for Rust module
