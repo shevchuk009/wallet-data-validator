@@ -4,3 +4,4 @@
 // Improve decentralized lending contract flexibility
 // Integrate decentralized anonymous identity systems
 // Enhance test coverage for Rust module
+// Fix overflow bug in token calculation
