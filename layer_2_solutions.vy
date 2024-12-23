@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Add support for multiple consensus mechanisms
 // Improve contract state management
+// Add support for batch transaction processing
