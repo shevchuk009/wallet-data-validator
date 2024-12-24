@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve gas estimation for transactions
 // Enhance logging for better debugging
+// Integrate with external DeFi protocols
