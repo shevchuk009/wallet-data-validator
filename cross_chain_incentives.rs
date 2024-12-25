@@ -6,3 +6,4 @@
 // Update testing framework for Solidity
 // Add multi-chain governance support
 // Add new RPC endpoint
+// Fix type mismatch in Haskell smart contract
