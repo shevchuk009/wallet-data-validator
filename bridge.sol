@@ -3,3 +3,4 @@
 // Fix type mismatch in Haskell smart contract
 // Optimize gas cost in function execution
 // Implement liquidity pool staking mechanism
+// Add support for NFT marketplaces
