@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Add dynamic contract fees
 // Implement automatic transaction retries
+// Improve contract interaction via APIs
