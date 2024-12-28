@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Improve token minting flow efficiency
 // Optimize token minting flow
+// Optimize decentralized voting mechanisms
