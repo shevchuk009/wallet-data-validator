@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Fix issue with multi-chain transactions
 // Implement liquidity pool staking mechanism
+// Fix deserialization bug in Haskell code
