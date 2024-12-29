@@ -2,3 +2,4 @@
 // Implement liquidity pool staking mechanism
 // Fix vulnerabilities in staking contracts
 // Fix overflow bug in token calculation
+// Integrate staking rewards automation
