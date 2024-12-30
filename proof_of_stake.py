@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Enhance test coverage for Rust module
 // Enhance smart contract upgradeability
+// Add new RPC endpoint
