@@ -6,3 +6,4 @@
 // Refactor contract state machine design
 // Improve staking logic for better rewards
 // Integrate decentralized anonymous identity systems
+// Add batch transaction capabilities
