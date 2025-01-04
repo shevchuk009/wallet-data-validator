@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Add new feature: on-chain governance
 // Integrate decentralized prediction models
+// Improve error handling in transaction flow
