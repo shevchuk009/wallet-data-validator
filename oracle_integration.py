@@ -10,3 +10,4 @@
 // Refactor validator reward system
 // Implement rewards escrow system
 // Integrate Chainlink VRF for randomness
+// Refactor reward pooling algorithm
