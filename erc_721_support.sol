@@ -8,3 +8,4 @@
 // Optimize state channels for faster transactions
 // Enhance smart contract upgradeability
 // Fix issue in token vesting logic
+// Fix memory leak in Rust smart contract
