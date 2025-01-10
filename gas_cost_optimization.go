@@ -9,3 +9,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize token burn process
 // Optimize gas cost in function execution
+// Improve decentralized exchange (DEX) liquidity
