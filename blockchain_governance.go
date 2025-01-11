@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Fix bug in random number generation
 // Fix transaction replay issue
+// Add multi-sig wallet functionality
