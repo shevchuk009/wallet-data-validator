@@ -4,3 +4,4 @@
 // Enhance smart contract state changes monitoring
 // Enhance developer documentation
 // Add multi-chain transaction support
+// Add multi-sig wallet functionality
