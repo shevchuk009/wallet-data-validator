@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Improve decentralized oracle protocols
 // Add support for decentralized file storage
+// Improve error handling in transaction flow
