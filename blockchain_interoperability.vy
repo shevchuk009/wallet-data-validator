@@ -5,3 +5,4 @@
 // Fix issues with token vesting contracts
 // Add batch processing for transactions
 // Refactor staking logic
+// Optimize oracle data fetching mechanism
