@@ -6,3 +6,4 @@
 // Add support for cross-chain bridges
 // Fix errors in contract interaction with wallets
 // Refactor storage layout for better efficiency
+// Enhance developer documentation
