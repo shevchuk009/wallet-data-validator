@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Integrate Chainlink VRF for randomness
 // Integrate IPFS for storage
+// Integrate IPFS for storage
