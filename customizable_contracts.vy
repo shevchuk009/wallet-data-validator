@@ -2,3 +2,4 @@
 // Implement rewards escrow system
 // Refactor decentralized exchange (DEX) code
 // Fix issues with token vesting contracts
+// Integrate Chainlink VRF for randomness
