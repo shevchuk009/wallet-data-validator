@@ -7,3 +7,4 @@
 // Enhance gas fee management
 // Add batch processing for transactions
 // Enhance logging for better debugging
+// Integrate privacy-enhancing smart contracts
