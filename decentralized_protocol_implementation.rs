@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Integrate with external blockchain networks
 // Fix compatibility with MetaMask
+// Enhance governance contract flexibility
