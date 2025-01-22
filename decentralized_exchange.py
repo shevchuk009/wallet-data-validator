@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix transaction replay issue
 // Refactor storage layout for better efficiency
+// Refactor decentralized storage system
