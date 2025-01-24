@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Add multi-chain transaction support
 // Add multi-sig wallet functionality
+// Enhance contract modularity for future upgrades
