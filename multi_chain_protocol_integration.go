@@ -3,3 +3,4 @@
 // Fix memory leak in Rust smart contract
 // Enhance contract upgrade process
 // Refactor storage layout for better efficiency
+// Reduce gas cost in minting logic
