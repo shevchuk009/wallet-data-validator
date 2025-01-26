@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix security vulnerability in random number generation
 // Improve staking logic for better rewards
+// Improve ERC-721 token metadata functionality
