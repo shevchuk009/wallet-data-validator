@@ -8,3 +8,4 @@
 // Add multi-chain governance support
 // Fix wallet interaction issues in DeFi protocols
 // Improve gas fee estimation accuracy
+// Fix deserialization bug in Haskell code
