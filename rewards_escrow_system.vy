@@ -8,3 +8,4 @@
 // Optimize Oracle-based data fetching
 // Optimize WASM compilation for Go contracts
 // Improve contract modularity
+// Enhance developer documentation
