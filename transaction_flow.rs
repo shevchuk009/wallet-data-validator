@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Optimize oracle data fetching mechanism
 // Fix Oracle communication delay issues
+// Improve ERC-721 token metadata functionality
