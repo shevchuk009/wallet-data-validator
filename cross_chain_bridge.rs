@@ -8,3 +8,4 @@
 // Bugfix: incorrect reward calculation
 // Add support for multiple consensus mechanisms
 // Enhance gas fee management
+// Integrate IPFS for storage
