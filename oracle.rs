@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Integrate chain-agnostic oracles
 // Integrate with external blockchain networks
+// Integrate with Ethereum Layer-2 solutions
